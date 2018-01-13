@@ -5,6 +5,6 @@
 4、Zookeeper   
 5、docker for windows10    
 6、分布式事务 最终一致性 消息队列 二次确定事务 ok    
-7、Feign技术   
-8、jenkins   
+7、Feign技术 ok   
+8、jenkins ok   
 9、CentOS部署 javaWeb应用 hyper-v使用
