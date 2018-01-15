@@ -1,0 +1,19 @@
+F4 代码跟踪
+Ctr+J 提示
+Alt+E 格式化代码
+Alt+Insert 插入通用代码
+Ctrl+F12 查看类所有代码
+
+
+Ctrl+H  类继承 查看子类继承关系
+Ctrl+Shift+N 文件搜索
+Ctrl+左键 方法导航
+Alt+F7查找类或方法在哪被使用
+Ctrl+N 查找类
+
+Ctr+F 本页搜索
+Alt+F 全局搜索
+Shift+Shift 搜索任何东西
+
+
+Ctrl+shift + - 折叠代码
