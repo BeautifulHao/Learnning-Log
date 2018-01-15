@@ -1,5 +1,5 @@
 # Learnning-Log
-1、GitHub详细使用 idea 使用  
+1、GitHub详细使用 idea 使用  ok  
 2、试验一种RPC框架 Spring    
 3、Spring Cloud试验 ok   
 4、Zookeeper   
