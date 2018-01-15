@@ -1,0 +1,10 @@
+开启使用EF数据迁移功能（-Force重新开启）	
+Enable-Migrations -Force	
+	
+添加表类	
+Add-Migration ”InitialData” 	
+	
+更新到数据库	
+Update-Database -Verbose	
+	
+Install-Package EntityFramework	
