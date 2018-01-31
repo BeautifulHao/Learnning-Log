@@ -11,6 +11,10 @@
 
 集合要掌握的是ArrayList、LinkedList、Hashtable、HashMap、ConcurrentHashMap、HashSet的实现原理，能流利作答，当然能掌握CopyOnWrite容器和Queue是再好不过的了。
 
+ArrayList 元素可重复、有序、非线程安全、可空。底层基于数组实现，便于遍历查询，不便于插入和新增（底层数据复制）。Vector线程安全版本
+LinkedList 元素可重复、有序、非线程安全、可空。底层基于双向列表实现，便于插入新增（无数据复制），不利于遍历查询（链表遍历）。
+HashMap 键可唯一空，值可重复，无序，非线程安全。底层采用数组和单向列表实现。
+
 
 3、设计模式
 
